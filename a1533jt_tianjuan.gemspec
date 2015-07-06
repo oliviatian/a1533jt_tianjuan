@@ -1,13 +1,13 @@
 Gem::Specification.new do |s|
-  s.name        = 'hola_a1533jt'
-  s.version     = '0.0.1'
-  s.date        = '2015-06-27'
-  s.summary     = "Hola!"
-  s.description = "A simple hello world gem"
+  s.name        = 'a1533jt_tianjuan'
+  s.version     = '0.0.0'
+  s.date        = '2015-07-06'
+  s.summary     = "Bundle"
+  s.description = "Bundle"
   s.authors     = ["a1533jt"]
   s.email       = 'a1533jt@aiit.ac.jp'
-  s.files       = ["lib/hola_a1533jt.rb"]
+  s.files       = ["lib/a1533jt_tianjuan.rb"]
   s.homepage    =
-    'http://rubygems.org/gems/hola_a1533jt'
+    'http://rubygems.org/gems/a1533jt_tianjuan'
   s.license       = 'MIT'
 end
